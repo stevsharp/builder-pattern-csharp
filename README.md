@@ -1,4 +1,4 @@
-# Builder Pattern Demo (C# / .NET 10)
+# Builder Pattern Demo (C# / .NET 9)
 
 A clean, professional implementation of the **Builder** creational design pattern.
 
